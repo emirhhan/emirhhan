@@ -5,6 +5,7 @@ Pazarlama, veri ve otomasyonu tek bir işte birleştiriyorum.</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/emirhanterzi"><img src="https://img.shields.io/badge/LinkedIn-emirhanterzi-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://motogate.com.tr"><img src="https://img.shields.io/badge/motogate.com.tr-Kurucu-111111?style=flat-square"/></a>
+<a href="https://www.motogate.com.tr/emirhan-terzi/"><img src="https://img.shields.io/badge/Profil-emirhan--terzi-0066CC?style=flat-square"/></a>
 <img src="https://img.shields.io/badge/İstanbul-Türkiye-E30A17?style=flat-square"/>
 </p>
 
