@@ -24,8 +24,17 @@ Pazarlama, veri ve otomasyonu tek bir işte birleştiriyorum.</p>
 
 ### Öne çıkan projeler
 
-- **[fusion-cli](https://github.com/emirhhan/fusion-cli)** · Masaüstü ve terminal arayüzlü yapay zekâ kodlama asistanı (Python + Tauri). Çoklu sağlayıcı bağlantısı, yerel çalışma alanı, imzalı macOS güncellemeleri.
-- **[manufactogate](https://github.com/emirhhan/manufactogate)** · Tek ekrandan çok pazarlı ürün araştırma platformu: bir ürünü 1688, Taobao, Pinduoduo ve diğer pazaryerlerinde bulur, tedarikçiyi doğrular, hedef ülkeye indirilmiş maliyeti hesaplar. Sunucusuz, tarayıcı eklentisi tabanlı (TypeScript monorepo).
+| Proje | Ne çözüyor |
+|---|---|
+| [**sunucu-tarafli-olcum**](https://github.com/emirhhan/sunucu-tarafli-olcum) | Meta CAPI, Google Ads ve GA4 için ödemeye bağlı, tekilleştirilmiş sunucu taraflı ölçüm |
+| [**b2b-stok-senkron**](https://github.com/emirhhan/b2b-stok-senkron) | Tedarikçi B2B portallarından WooCommerce'e beden bazlı, insan onaylı stok senkronu |
+| [**donusum-optimizasyonu**](https://github.com/emirhhan/donusum-optimizasyonu) | Ödeme hunisi sızıntılarını kapatan modüller: ödeme kurtarma, site içi ödeme, hediye çarkı |
+| [**akilli-urun-arama**](https://github.com/emirhhan/akilli-urun-arama) | Hataya dayanıklı site içi arama + popülerlik sıralaması |
+| [**gate-holding**](https://github.com/emirhhan/gate-holding) | Reklam, içerik, mağaza ve stok verisini tek ekranda toplayan pazarlama kontrol merkezi |
+| [**manufactogate**](https://github.com/emirhhan/manufactogate) | 30+ pazaryerinde ürün ve tedarikçi araştırması, indirilmiş maliyet hesabı |
+| [**fusion-cli**](https://github.com/emirhhan/fusion-cli) | Masaüstü ve terminal arayüzlü yapay zekâ kodlama asistanı |
+
+> 🔒 Projelerin kaynak kodu şifrelidir; incelemek isteyen işverenlere talep üzerine açılır. Vaka çalışmaları: [motogate.com.tr/emirhan-terzi](https://www.motogate.com.tr/emirhan-terzi/)
 
 ### Araçlar
 
